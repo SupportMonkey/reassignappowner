@@ -1,4 +1,4 @@
-# Power Automate Flow to reassign ownership for Power App
+# Power Automate Flow to Identify Apps Owned by Disabled Users and Reassign Ownership
 
 This package contains a sample flow that
 
