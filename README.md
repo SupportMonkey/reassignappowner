@@ -1,4 +1,4 @@
-# Power Automate Flow to Identify Apps Owned by Disabled Users and Reassign Ownership
+# Power Automate Flow to Identify Apps Owned by Disabled Users (Orphaned Apps) and Reassign Ownership
 
 This package contains a sample flow that
 
